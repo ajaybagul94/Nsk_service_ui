@@ -308,7 +308,7 @@ export default function LandingPage() {
               <span className="text-lg font-bold text-foreground">ServiConnect</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              &copy; 2024 ServiConnect. All rights reserved.
+              &copy; 2026 ServiConnect. All rights reserved.
             </p>
           </div>
         </div>
